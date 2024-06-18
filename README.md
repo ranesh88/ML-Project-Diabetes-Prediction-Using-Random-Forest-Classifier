@@ -1,3 +1,5 @@
+# Diabetes Prediction Using Random Forest Classifier
+
 This project is related to Healthcare domain.
 
 In this project we will predict the possibility of suffering with Diabetes based on the
